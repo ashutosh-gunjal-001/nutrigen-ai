@@ -3,6 +3,17 @@
 NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. It provides personalized meal plans, nutrition analysis, and 24/7 AI-based coaching using Google Gemini and USDA APIs.
 
 
+🌐 Live Demo
+🔗https://courageous-dusk-a82097.netlify.app/
+
+
+## 📄 Documentation & 📽️ Video Demonstration
+
+- 📘 **Project Report (Full Documentation)**: [View on Google Drive](https://drive.google.com/file/d/1AbCDEfgH12IJk/view)
+- 🎬 **Video Demonstration**: [Watch on Google Drive](https://drive.google.com/file/d/1XyzLMNOP3Q8RST/view)
+
+
+
 ## 🚀 Features
 
 - 🧠 AI-Powered Meal Planning (7-day personalized plans)
@@ -19,6 +30,7 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 **AI:** Google Gemini via prompt engineering  
 **Database:** Firebase Firestore  
 **APIs:** USDA FoodData Central, Gemini Pro  
+
 
 ## 📷 Screenshots
 
@@ -38,15 +50,10 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 <img src="https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc" alt="Netlify Deployment Screenshot" width="700"/>
 
 
-
 ## 📐 Architecture Diagram
 
 ![Architecture]![image](https://github.com/user-attachments/assets/6138d265-7109-4ef0-88a6-a4a57716dfec)
 
-
-
-🌐 Live Demo
-🔗https://courageous-dusk-a82097.netlify.app/
 
 📚 References
 Google Research. (2024, June 11). Advancing personal health and wellness insights with AI. Link
@@ -57,8 +64,10 @@ OpenAI. (2023). Prompt engineering guide. Link
 Google AI. (2024). Gemini API overview. Link
 Jones, M., Bradley, J., & Sakimura, N. (2015). JSON Web Token (JWT). Link
 
+
 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
+
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
