@@ -21,11 +21,18 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 **APIs:** USDA FoodData Central, Gemini Pro  
 
 ## 📷 Screenshots
-<img src="https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69" alt="Screenshot" width="600"/>
-![Screenshot 2025-06-18 at 11-44-05 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3)
-![Screenshot 2025-06-18 at 11-44-15 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e)
-![Screenshot 2025-06-18 at 11-44-52 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/b34371d5-7a6b-466a-ac0f-4604af0f4679)
-![Screenshot_18-6-2025_115125_courageous-dusk-a82097 netlify app](https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc)
+
+  ### 🔹 Dashboard View
+    <img src="https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69" alt="Dashboard Screenshot" width="700"/>
+  ### 🔹 Meal Planner Page
+    <img src="https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3" alt="Meal Planner Screenshot" width="700"/>
+  ### 🔹 Food Insights Page
+    <img src="https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e" alt="Food Insights Screenshot" width="700"/>
+  ### 🔹 AI Virtual Coach
+    <img src="https://github.com/user-attachments/assets/b34371d5-7a6b-466a-ac0f-4604af0f4679" alt="AI Coach Screenshot" width="700"/>
+  ### 🔹 Deployed Web App View (Netlify)
+    <img src="https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc" alt="Netlify Deployment Screenshot" width="700"/>
+
 
 
 ## 📐 Architecture Diagram
