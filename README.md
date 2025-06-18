@@ -37,19 +37,19 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 ## 📷 Screenshots
 
 ### 🔹 Dashboard View
-<img src="https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69" alt="Dashboard Screenshot" width="700"/>
+<img src="https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69" alt="Dashboard Screenshot" width="500"/>
 
 ### 🔹 Meal Planner Page
-<img src="https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3" alt="Meal Planner Screenshot" width="700"/>
+<img src="https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3" alt="Meal Planner Screenshot" width="500"/>
 
 ### 🔹 Food Insights Page
-<img src="https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e" alt="Food Insights Screenshot" width="700"/>
+<img src="https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e" alt="Food Insights Screenshot" width="500"/>
 
 ### 🔹 AI Virtual Coach
-<img src="https://github.com/user-attachments/assets/b34371d5-7a6b-466a-ac0f-4604af0f4679" alt="AI Coach Screenshot" width="700"/>
+<img src="https://github.com/user-attachments/assets/b34371d5-7a6b-466a-ac0f-4604af0f4679" alt="AI Coach Screenshot" width="500"/>
 
 ### 🔹 Deployed Web App View (Netlify)
-<img src="https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc" alt="Netlify Deployment Screenshot" width="700"/>
+<img src="https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc" alt="Netlify Deployment Screenshot" width="500"/>
 
 
 
