@@ -22,7 +22,10 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 
 ## 📷 Screenshots
 ![Screenshot 2025-06-18 at 11-42-48 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69)
-
+![Screenshot 2025-06-18 at 11-44-05 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3)
+![Screenshot 2025-06-18 at 11-44-15 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e)
+![Screenshot 2025-06-18 at 11-44-52 NutriGen - AI-Powered Nutrition Insights](https://github.com/user-attachments/assets/b34371d5-7a6b-466a-ac0f-4604af0f4679)
+![Screenshot_18-6-2025_115125_courageous-dusk-a82097 netlify app](https://github.com/user-attachments/assets/021406b3-66dd-4619-98ed-eb05f29c90bc)
 
 
 ## 📐 Architecture Diagram
