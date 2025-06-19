@@ -11,7 +11,7 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 
 
 ## 📄 Documentation & 📽️ Video Demonstration
-- 📘 **Project Report (Full Documentation)**: [View on Google Drive]([https://docs.google.com/document/d/1ob10vbQrODunPIQd9FyIchpxh4Dmjc8m/edit?usp=drive_link&ouid=103655358701706972407&rtpof=true&sd=true](https://drive.google.com/file/d/1lp8ZwOgy5RB5BvuQimQJ9P9IznfpqMqC/view?usp=drive_link))
+- 📘 **Project Report (Full Documentation)**: [View on Google Drive](https://drive.google.com/file/d/1gDrsIe6vC7G2a1TkvdHeMgNcI55Yp3bu/view?usp=drive_link)
 - 🎬 **Video Demonstration**: [Watch on Google Drive](https://drive.google.com/file/d/1XyzLMNOP3Q8RST/view)
 
 
@@ -40,7 +40,7 @@ NutriGen is a Gen AI-powered web app that serves as a personal nutrition coach. 
 <img src="https://github.com/user-attachments/assets/a44e5027-3f66-439b-b380-e3bd72154c69" alt="Dashboard Screenshot" width="500"/>
 
 ### 🔹 Meal Planner Page
-<img src="https://github.com/user-attachments/assets/920d3708-bbb2-404e-88d5-66a8404f85a3" alt="Meal Planner Screenshot" width="500"/>
+<img src="https://github.com/user-attachments/assets/efe49a94-e7e7-4210-8601-c50b1f252d2f" alt="Meal Planner Screenshot" width="500"/>
 
 ### 🔹 Food Insights Page
 <img src="https://github.com/user-attachments/assets/86bf5127-5686-482e-b39e-fd3ece8f782e" alt="Food Insights Screenshot" width="500"/>
